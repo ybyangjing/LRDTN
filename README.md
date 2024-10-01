@@ -23,6 +23,11 @@ The model code is implemented based on the PyTorch framework. The experimental e
 - 32GB RAM
 - NVIDIA GeForce RTX 3080Ti GPU
 
+## Model
+```
+netword.py
+```
+
 
 The complete code will be uploaded after the paper is accepted.
 
