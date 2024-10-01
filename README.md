@@ -4,7 +4,7 @@ This is the official PyTorch code for the paper:
 
 **LRDTN：Spectral-Spatial Convolutional Fusion Long-Range Dependency Transformer Network for Hyperspectral Image Classification**
 
-***IEEE Transaction on Geoscience and Remote Sensing***
+***IEEE Transactions on Geoscience and Remote Sensing***
 
 **Shujie Ding**, **Xiaoli Ruan**,**Jing Yang***, **Chengjiang Li**, **Jie Sun**, **Xianghong Tang and Zhidong Su**.
 
