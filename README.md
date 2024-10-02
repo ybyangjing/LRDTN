@@ -31,4 +31,4 @@ netword.py
 
 The complete code will be uploaded after the paper is accepted.
 
-**If you have any questions you can contact us : gs.sjding22@gzu.edu.cn**
+**If you have any questions you can contact us : gs.sjding22@gzu.edu.cn and xlruan@gzu.edu.cn**
