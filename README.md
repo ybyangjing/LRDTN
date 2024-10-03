@@ -28,6 +28,10 @@ The model code is implemented based on the PyTorch framework. The experimental e
 netword.py
 ```
 
+## Parameter
+```
+Epoch=200; Learning rate=0.0005; Batch size=100
+```
 
 The complete code will be uploaded after the paper is accepted.
 
