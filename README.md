@@ -11,7 +11,7 @@ This is the official PyTorch code for the paper:
 **[**Code**](https://github.com/ybyangjing/LRDTN)
 
 <p align="center">
-  <img src="img/model.png"alt="" align=center />
+  <img src="img/LRDTN.jpg"alt="" align=center />
 </p>
 
 
