@@ -33,6 +33,4 @@ netword.py
 Epoch=200; Learning rate=0.0005; Batch size=100
 ```
 
-The complete code will be uploaded after the paper is accepted.
-
 **If you have any questions you can contact us : gs.sjding22@gzu.edu.cn and xlruan@gzu.edu.cn**
